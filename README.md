@@ -31,4 +31,6 @@ Example responses:
 
 {"status":"Insufficient score"}
 
+----------------------------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/fc72b221-f80c-4531-919a-0203ac2ba39f)
