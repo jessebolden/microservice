@@ -11,10 +11,11 @@ client_socket.sendall([REQUEST GOES HERE].encode('utf-8'))
 Example requests:
 {"action": "get_leaderboard"}
 
-"action": "add_entry",
-"data": { "name": "Katie",
-          "score": 7025,
-          "desc": "Got lost in an Ikea"
+{"action": "add_entry",
+ "data": { "name": "Katie",
+           "score": 7025,
+           "desc": "Got lost in an Ikea"}
+
 ----------------------------------------------------------------------------------
 Recieving data:
 1. Connect to socket and send request
